@@ -27,13 +27,13 @@ I then change the assigned department from the support to the system admins sinc
  <img src="https://i.imgur.com/mspYS8u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I message Ken to update him about the issue letting him know that I'm talking with the system admin department on how we can help resolve the issue. Mind you the ticket is still open when I sent the message
+I message Ken to update him about the issue letting him know that I'm talking with the system admin department on how we can help resolve the issue. Mind you the ticket is still open when I sent the message.
 <br />
 <p>
 <img src="https://i.imgur.com/hV9ANpH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I reach back out to Ken and let him know that hypothetical Jerry from System Engineering found and corrected a failed load balancer, and mobile banking should be back up running. The issue has been resolved.
+I reach back out to Ken and let him know that hypothetical Jerry from System Engineering found and corrected a failed load balancer, and mobile banking should be back up running. The issue has been resolved. (excuse the typo)
 <br />
 <p>
 
